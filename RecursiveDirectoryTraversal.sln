@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveDirectoryTraversal", "RecursiveDirectoryTraversal\RecursiveDirectoryTraversal.csproj", "{C503D511-0728-48E4-8C6C-EA20DB0A2F3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C503D511-0728-48E4-8C6C-EA20DB0A2F3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C503D511-0728-48E4-8C6C-EA20DB0A2F3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C503D511-0728-48E4-8C6C-EA20DB0A2F3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C503D511-0728-48E4-8C6C-EA20DB0A2F3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E6671D5-4B6C-4798-BB11-C4A6392794E9}
+	EndGlobalSection
+EndGlobal
